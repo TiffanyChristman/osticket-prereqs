@@ -84,6 +84,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+<p>
+  
+![Screenshot 2024-03-01 095406](https://github.com/TiffanyChristman/osticket-prereqs/assets/161388738/d6575edc-26af-4f1c-a8d7-68b32ee16676)
+
+
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
 <p
   
 ![Screenshot 2024-03-03 111838](https://github.com/TiffanyChristman/osticket-prereqs/assets/161388738/84695a28-4d0f-4afb-9b8b-09fa9288a6d6)
