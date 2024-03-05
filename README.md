@@ -51,7 +51,8 @@ Internet Information Services -> Web Management Tools -> IIS Management Console
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A way to check IIS is intalled correctly, is to type the IP address into the browser for confirmation!
+
 </p>
 <br />
 
@@ -60,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![Screenshot 2024-03-01 095050](https://github.com/TiffanyChristman/osticket-prereqs/assets/161388738/78185fc5-e368-4b3e-a3de-b614082765db)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
 <br />
 
