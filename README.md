@@ -70,7 +70,12 @@ Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 ![Screenshot 2024-03-01 095625](https://github.com/TiffanyChristman/osticket-prereqs/assets/161388738/14d1b85b-d277-4bb6-a8c8-358d6e72542c)
 </p>
 <p>
-Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
 </p>
 <br />
 
@@ -80,7 +85,9 @@ Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Refresh the osTicket site in your browse, observe the changes
+
 </p>
 <br />
 
