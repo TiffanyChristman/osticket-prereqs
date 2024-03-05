@@ -91,10 +91,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Install osTicket v1.15.8
-Download osTicket from the Installation Files Folder
-Extract and copy “upload” folder to c:\inetpub\wwwroot
-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
 
 </p>
 <br />
@@ -105,6 +102,18 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 </p>
 <p>
+Install osTicket v1.15.8
+Download osTicket from the Installation Files Folder
+Extract and copy “upload” folder to c:\inetpub\wwwroot
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+ Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browse, observe the changes
 
 </p>
 <br />
