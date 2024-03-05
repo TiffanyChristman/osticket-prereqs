@@ -97,6 +97,17 @@ Refresh the osTicket site in your browse, observe the changes
 
 
 </p>
+Open Heidi SQL
+Create a new session, root/Password1
+Connect to the session
+Create a database called “osTicket”
+
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
+
 <p>
 
 
